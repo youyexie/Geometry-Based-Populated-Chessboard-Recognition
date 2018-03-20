@@ -13,7 +13,7 @@ Chessboards are commonly used to calibrate cameras, and many robust methods have
 # Citation
 If you use our method and/or codes, please cite our paper
 
-''''
+'''
 @inproceedings{xiegeometry,
   title={Geometry-Based Populated Chessboard Recognition},
   author={Xie, Youye and Tang, Gongguo and Hoff, William},
@@ -21,4 +21,4 @@ If you use our method and/or codes, please cite our paper
   year={2017},
   organization={International Society for Optics and Photonics}
 }
-''''
+'''
