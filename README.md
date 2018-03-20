@@ -1,5 +1,5 @@
 # Chessboard Recognition
-Demo for the ICMV'17 paper "(Geometry-Based Populated Chessboard Recognition)[http://inside.mines.edu/~whoff/publications/2017/ICMV2017.pdf]"
+Demo for the ICMV'17 paper "[Geometry-Based Populated Chessboard Recognition](http://inside.mines.edu/~whoff/publications/2017/ICMV2017.pdf)"
 
    <img src='Fig/motivation.jpg' width=500>
    
