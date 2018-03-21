@@ -2,8 +2,8 @@ function Intersection=getIntersection(corners,nx,ny,mapimport)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Input:  corners - The square index
-%         nx, ny - number of intersections in x and y axes
-%         mapimport - whether the corners are imported
+%         nx, ny - Number of intersections in x and y axes
+%         mapimport - Whether the corners are imported
 % Output: Intersections - The square corners location
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
